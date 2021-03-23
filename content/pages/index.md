@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: FehrBuilt
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      A new and fresh approach to doing your project on time and on price. 
+
+      We are quality above all, 
     actions:
       - label: Learn More
         url: /features
